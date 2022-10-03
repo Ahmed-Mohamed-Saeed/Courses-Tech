@@ -1,4 +1,4 @@
-// nav item active
+// nav item active 
 var nav = document.getElementById("my-li");
 var li = nav.getElementsByClassName("nav-link");
 for (var i = 0; i < li.length; i++) {
